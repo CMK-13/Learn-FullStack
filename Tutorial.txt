@@ -1,0 +1,3 @@
+npm install --save-dev sequelize-cli@6.2.0
+npx sequelize-cli init ( cd src Để chuyển vào thư mục src để thêm thông tin cơ sở dữ liệu bên trong source)
+npm install --save sequelize@6.6.2
